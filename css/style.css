@@ -198,6 +198,7 @@ ul li a:hover{
     background-image: url('../imgs/chef_bg.jpg');
     height: 90vh;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .banner div {
